@@ -1,16 +1,4 @@
-@media screen and (max-width: 768px){
 
-    .espaco{
-        height: 250px
-    }
-}
-
-@media screen and (min-width: 1199px){
-
-    .espaco{
-        height: 75px
-    }
-}
 
 .album{
     margin: auto;
